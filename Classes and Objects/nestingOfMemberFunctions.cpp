@@ -23,7 +23,7 @@ void Set :: input() {
 }
 
 void Set :: display() {
-    cout << "Largest Value: " << largest() << endl; // Calling another member function which is called nesting of member functions.
+    cout << "Largest Value: " << largest();  // Calling another member function which is called nesting of member functions.
 }
 
 
