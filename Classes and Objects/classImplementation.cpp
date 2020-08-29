@@ -29,7 +29,7 @@ int main()
 {
     item x;  // Creating object
 
-    x.getData(100, 23.53);  // Accessing class member functions as well as data members.
+    x.getData(103, 23.53);// Accessing class member functions as well as data members.
     x.putData();
 
     return 0;
